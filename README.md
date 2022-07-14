@@ -6,3 +6,4 @@
 - featureブランチで追加します．
 - 更にdevelopmentブランチで追加します．
 
+- rasarariが修正した
